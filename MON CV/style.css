@@ -1,0 +1,38 @@
+body {
+    background-size: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.item {
+
+
+    width: 100%;
+
+}
+
+#maphoto {
+    width: 250px;
+
+}
+
+h1,
+p,
+h2,
+h5,
+h3,
+h4 {
+    color: rgb(6, 5, 5);
+}    
+
+li{
+   list-style-type: none; 
+}
